@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Super Trunfo - Cadastro Simples de 2 Cidades (sem comparação)
+// Super Trunfo - Cadastro Simples de 2 Cidades 
 
 int main() {
     // Declaração das variáveis da 1ª cidade
